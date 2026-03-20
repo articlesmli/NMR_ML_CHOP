@@ -1,1 +1,1 @@
-# NMR_ML_CHOP
+### A Machine learning model leveraging SMILES-derived NMR spectroscopy data to predict dopamine D1 receptor antagonists: a prospective framework for forecasting the impact of engineered nanoparticles on the functionalities of small biomolecules,available at ArXiv  https://doi.org/10.48550/arXiv.2501.14044   
